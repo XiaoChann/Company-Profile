@@ -15,11 +15,6 @@
   background-color: #dc3545;
 }
 
-.lingkaran i {
-  position: relative;
-  top: 30px;
-}
-
 .crop-img {
   object-fit: cover;
 }
